@@ -1,38 +1,31 @@
-# Hi, I'm Ashish 👋
+# Hi, I'm [Your Name] 👋
 
-## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
 
-I am an **Associate Python Developer** with over **2 years of experience** specializing in **Python** and **MongoDB**. Currently, I am contributing to the **OneStone Project** under the guidance of **Aman** and **Amit**. My goal is to leverage my skills to make meaningful contributions to both **OneStone** and **CrossML**.
+## 🚀 About Me
+I am a software developer passionate about building high-quality web and backend services. My focus is on Python, TypeScript, and cloud-native technologies.
 
-## 🔧 Technologies & Tools
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-- **Databases:**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)  
-- **Web Development:**  
-  ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)  
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)  
+---
 
-## 🛠️ Projects
+## 🏆 Achievements:
+![Achievement Badge 1](https://img.shields.io/badge/Achievement-1-brightgreen)
+![Achievement Badge 2](https://img.shields.io/badge/Achievement-2-blue)
+![Achievement Badge 3](https://img.shields.io/badge/Achievement-3-pink)
 
-### OneStone Project
-A high-impact initiative focused on [describe briefly your project’s goal]. I am actively working on [highlight your contributions or features you are working on].
+---
 
-### Other Projects
-- **[Project Name](#)** - Brief description of your personal/side project.
-- **[Project Name](#)** - Another project or contribution you want to showcase.
+## 🔥 GitHub Stats:
 
-## 🌱 I’m Currently Learning
-- Advanced **Python** for automation and web development.
-- Improving my proficiency in **Data Structures and Algorithms**.
-- Exploring **Cloud technologies** like AWS for scalable solutions.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-## 🚀 Goals
-- Become a proficient Full-Stack Developer.
-- Contribute more to open-source projects.
+### Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
 
-## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+---
+
+## 🧑‍💻 Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node
